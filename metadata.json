@@ -1,0 +1,5 @@
+{
+  "name": "Aria AI - Premium Voice Agent",
+  "description": "A production-ready, multilingual AI voice assistant for business websites, powered by Gemini 2.0 Flash Live.",
+  "requestFramePermissions": ["microphone"]
+}
